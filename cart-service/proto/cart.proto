@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package cart;
 
-option go_package = "github.com/Julie-Zhuyi/douyin-mall/cart-service/proto";
+option go_package =  "cart-service/proto";
 
 service CartService {
   rpc AddItem(AddItemReq) returns (AddItemResp);

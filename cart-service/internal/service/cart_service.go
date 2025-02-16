@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	pb "github.com/Julie-Zhuyi/douyin-mall/cart-service/proto"
+	pb "github.com/Julie-Zhuyi/douyinmall/cart-service/proto"
 )
 
 // CartServiceImpl 购物车服务实现

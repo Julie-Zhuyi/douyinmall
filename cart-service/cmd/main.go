@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/Julie-Zhuyi/douyin-mall/cart-service/internal/service"
-	pb "github.com/Julie-Zhuyi/douyin-mall/cart-service/proto"
+	"github.com/Julie-Zhuyi/douyinmall/cart-service/internal/service"
+	pb "github.com/Julie-Zhuyi/douyinmall/cart-service/proto"
 	"google.golang.org/grpc"
 )
 
