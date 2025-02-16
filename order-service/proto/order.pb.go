@@ -7,7 +7,7 @@
 package proto
 
 import (
-	proto "cart-service/proto"
+	proto "github.com/Julie-Zhuyi/douyinmall/cart-service/proto"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -9,7 +9,9 @@ import (
 	// 引入生成的order.proto的Go代码
 )
 
-type OrderService struct{}
+type OrderService struct {
+	proto.UnimplementedOrderServiceServer
+}
 
 func (s *OrderService) PlaceOrder(ctx context.Context, req *proto.PlaceOrderReq) (*proto.PlaceOrderResp, error) {
 	// 模拟订单处理逻辑
