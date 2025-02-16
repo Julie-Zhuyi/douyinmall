@@ -2,9 +2,9 @@ syntax = "proto3";
 
 package order;
 
-import "cart-service/proto/cart.proto";
+import "cart.proto";
 
-option go_package = "order";
+option go_package = "order-service/proto";
 
 service OrderService {
   rpc PlaceOrder(PlaceOrderReq) returns (PlaceOrderResp) {}
