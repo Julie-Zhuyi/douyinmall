@@ -4,6 +4,7 @@ go 1.23.5
 
 require (
 	github.com/Julie-Zhuyi/douyinmall/cart-service v0.0.0-20250216153046-44d566266dfb
+	github.com/Julie-Zhuyi/douyinmall/order-service v0.0.0-20250216154018-817e6bdcfad6
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.5
 )

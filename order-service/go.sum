@@ -1,5 +1,7 @@
 github.com/Julie-Zhuyi/douyinmall/cart-service v0.0.0-20250216153046-44d566266dfb h1:giW0Q/3xsDCcfDLNNK8idv94JBd3frwlaWv/+qoeEWM=
 github.com/Julie-Zhuyi/douyinmall/cart-service v0.0.0-20250216153046-44d566266dfb/go.mod h1:7z0RG3g4M4mkpboYoYsQKECeBUbgI3PNwpkwi2qDhxk=
+github.com/Julie-Zhuyi/douyinmall/order-service v0.0.0-20250216154018-817e6bdcfad6 h1:ZivMqDVPpZ/5UE7HCmrMmkyhqdK33f5jQb0aOn+kXz4=
+github.com/Julie-Zhuyi/douyinmall/order-service v0.0.0-20250216154018-817e6bdcfad6/go.mod h1:WuZFF/AwB+r6uQfyG/fX8Wsp3o5MA2Vgxu3B2hHV9ss=
 github.com/go-logr/logr v1.4.2 h1:6pFjapn8bFcIbiKo3XT4j/BhANplGihG6tvd+8rYgrY=
 github.com/go-logr/logr v1.4.2/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
 github.com/go-logr/stdr v1.2.2 h1:hSWxHoqTgW2S2qGc0LTAI563KZ5YKYRhT3MFKZMbjag=
