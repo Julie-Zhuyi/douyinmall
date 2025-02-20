@@ -1,7 +1,3 @@
-github.com/Julie-Zhuyi/douyinmall/cart-service v0.0.0-20250216161615-41ce36251ebc h1:Q0ZQeVXHG4h6t8TYYjC0PZhgsdnR1GYwRtIQLJKvyTc=
-github.com/Julie-Zhuyi/douyinmall/cart-service v0.0.0-20250216161615-41ce36251ebc/go.mod h1:7z0RG3g4M4mkpboYoYsQKECeBUbgI3PNwpkwi2qDhxk=
-github.com/Julie-Zhuyi/douyinmall/order-service v0.0.0-20250216161615-41ce36251ebc h1:UXN6B3qFI4D+sxQKpOLsm1/XAghuWWyDt5oXxYe7aSQ=
-github.com/Julie-Zhuyi/douyinmall/order-service v0.0.0-20250216161615-41ce36251ebc/go.mod h1:JCSO45AEBlHjC44KGbibnD/DoxyyHFYFDkY17S47o4w=
 github.com/Julie-Zhuyi/douyinmall/payment-service v0.0.0-20250220155300-8661a7bc9f16 h1:MuB0hWSta4B7R6tI9v8YglXJOFCHaeVbRz+RfmakU5Q=
 github.com/Julie-Zhuyi/douyinmall/payment-service v0.0.0-20250220155300-8661a7bc9f16/go.mod h1:M/XOblwwkPtzNXBGz5V8fr7VZ517uW0iyoV6Fr6HREU=
 github.com/PuerkitoBio/goquery v1.5.1/go.mod h1:GsLWisAFVj4WgDibEWF4pvYnkVQBpKBKeU+7zCJoLcc=
@@ -41,5 +37,3 @@ google.golang.org/grpc v1.70.0 h1:pWFv03aZoHzlRKHWicjsZytKAiYCtNS0dHbXnIdq7jQ=
 google.golang.org/grpc v1.70.0/go.mod h1:ofIJqVKDXx/JiXrwr2IG4/zwdH9txy3IlF40RmcJSQw=
 google.golang.org/protobuf v1.35.2 h1:8Ar7bF+apOIoThw1EdZl0p1oWvMqTHmpA2fRTyZO8io=
 google.golang.org/protobuf v1.35.2/go.mod h1:9fA7Ob0pmnwhb644+1+CVWFRbNajQ6iRojtC/QF5bRE=
-google.golang.org/protobuf v1.36.5 h1:tPhr+woSbjfYvY6/GPufUoYizxw1cF/yFoxJ2fmpwlM=
-google.golang.org/protobuf v1.36.5/go.mod h1:9fA7Ob0pmnwhb644+1+CVWFRbNajQ6iRojtC/QF5bRE=
