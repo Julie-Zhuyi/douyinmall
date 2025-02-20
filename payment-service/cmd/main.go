@@ -15,7 +15,7 @@ func main() {
 	db.InitializeDB()
 
 	// 启动 gRPC 服务器
-	lis, err := net.Listen("tcp", ":50051")
+	lis, err := net.Listen("tcp", ":50053")
 	if err != nil {
 		fmt.Printf("failed to listen: %v\n", err)
 		return
@@ -23,7 +23,7 @@ func main() {
 
 	grpcServer := grpc.NewServer()
 	proto.RegisterPaymentServiceServer(grpcServer, &service.PaymentService{})
-	fmt.Println("Payment service started at :50051")
+	fmt.Println("Payment service started at :50053")
 	if err := grpcServer.Serve(lis); err != nil {
 		fmt.Printf("failed to serve: %v\n", err)
 	}
